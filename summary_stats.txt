@@ -1,0 +1,84 @@
+ 
+Mean Age of Dataset: 39.21 
+Mean BMI of Dataset: 30.66 
+Mean Number of Children of Dataset: 1.09 
+Mean Charges of Dataset: 13270.42 
+ 
+Max Age in Dataset: 64 
+Max BMI in Dataset: 53.13 
+Max Number of Children in Dataset: 5 
+Max Charge in Dataset: 63770.42801 
+ 
+Minimum Age in Dataset: 18 
+Minimum BMI in Dataset: 15.96 
+Minimum Number of Children in Dataset: 0 
+Minimum Charge in Dataset: 1121.8739 
+ 
+Percentage of Males in Dataset: 50.52 
+Percentage of Females in Dataset: 49.48 
+Percentage of Smokers in Dataset: 20.48 
+Percentage of Non-smokers in Dataset: 79.52 
+Percentage of Northeast in Dataset: 24.22 
+Percentage of Northwest in Dataset: 24.29 
+Percentage of Southeast in Dataset: 27.2 
+Percentage of Southwest in Dataset: 24.29 
+ 
+Twenties Mean Charge: 9098.19 
+Thirties Mean Charge: 11661.81 
+Forties Mean Charge: 13730.04 
+Fifties Mean Charge: 15937.66 
+Sixties Mean Charge: 19766.12 
+ 
+Twenties Charge Count: 362 
+Thirties Charge Count: 262 
+Forties Charge Count: 272 
+Fifties Charge Count: 278 
+Sixties Charge Count: 164 
+ 
+Male Mean Charge: 13956.75 
+Female Mean Charge: 12569.58 
+ 
+Male Charge Count: 676 
+Female Charge Count: 662 
+ 
+Underweight Mean Charge: 8852.2 
+Normalweight Mean Charge: 10379.5 
+Overweight Mean Charge: 11006.81 
+Obese Mean Charge: 15315.98 
+Morbidly Obese Mean Charge: 16667.61 
+ 
+Underweight Charge Count: 20 
+Normalweight Charge Count: 222 
+Overweight Charge Count: 380 
+Obese Charge Count: 623 
+Morbid Charge Count: 93 
+ 
+Zero Children Mean Charge: 12365.98 
+One Child Mean Charge: 12731.17 
+Two Children Mean Charge: 15073.56 
+Three Children Mean Charge: 15355.32 
+Four Children Mean Charge: 13850.66 
+Five Children Mean Charge: 8786.04 
+ 
+Zero Children Count: 574 
+One Child Count: 324 
+Two Children Count: 240 
+Three Children Count: 157 
+Four Children Count: 25 
+Five Children Count: 18 
+ 
+Smoker Mean Charge: 32050.23 
+Non-Smoker Mean Charge: 8434.27 
+ 
+Smoker Charge Count: 274 
+Non-Smoker Charge Count: 1064 
+ 
+Northeast Mean Charge: 13406.38 
+Northwest Mean Charge: 12417.58 
+Southeast Mean Charge: 14735.41 
+Southwest Mean Charge: 12346.94 
+ 
+Northeast Charge Count: 324 
+Northwest Charge Count: 325 
+Southeast Charge Count: 364 
+Southwest Charge Count: 325 
